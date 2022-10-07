@@ -1,7 +1,7 @@
 - UNIKOZE
 - Web développeur Freelance
 - HTML CSS Javascript
-- unikoze.com
+- www.unikoze.com
 - contact@unikoze.com
 
 <!---
