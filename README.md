@@ -1,10 +1,5 @@
-- UNIKOZE
-- Web développeur Freelance
-- HTML CSS Javascript
+- U N I K O Z E
+- Développeur Full-Stack web et mobile
+- Flutter Dart HTML CSS Javascript
 - www.unikoze.com
 - contact@unikoze.com
-
-<!---
-UNIKOZE/UNIKOZE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
